@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Scarlet Beyond a Crimson Dream (TH6)"
+	},
+	"length_in_seconds": 70,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.scarlet_beyond_a_crimson_dream"
+	}
+}

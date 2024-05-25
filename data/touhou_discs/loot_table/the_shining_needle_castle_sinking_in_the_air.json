@@ -1,0 +1,28 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_wait",
+					"functions": [
+						{
+							"function": "minecraft:set_custom_model_data",
+							"value": 543049
+						},
+						{
+							"function": "minecraft:set_components",
+							"components": {
+								"jukebox_playable": {
+									"song": "touhou_discs:the_shining_needle_castle_sinking_in_the_air",
+									"show_in_tooltip": true
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

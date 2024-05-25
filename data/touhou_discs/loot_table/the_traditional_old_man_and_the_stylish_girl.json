@@ -1,0 +1,28 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_wait",
+					"functions": [
+						{
+							"function": "minecraft:set_custom_model_data",
+							"value": 543051
+						},
+						{
+							"function": "minecraft:set_components",
+							"components": {
+								"jukebox_playable": {
+									"song": "touhou_discs:the_traditional_old_man_and_the_stylish_girl",
+									"show_in_tooltip": true
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

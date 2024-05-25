@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Ore From The Age of The Gods (TH18)"
+	},
+	"length_in_seconds": 151,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.ore_from_the_age_of_the_gods"
+	}
+}

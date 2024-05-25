@@ -1,0 +1,28 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_wait",
+					"functions": [
+						{
+							"function": "minecraft:set_custom_model_data",
+							"value": 543002
+						},
+						{
+							"function": "minecraft:set_components",
+							"components": {
+								"jukebox_playable": {
+									"song": "touhou_discs:a_tiny_tiny_clever_commander",
+									"show_in_tooltip": true
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

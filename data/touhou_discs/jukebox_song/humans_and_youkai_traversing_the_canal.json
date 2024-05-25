@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Humans and Youkai Traversing the Canal (TH14)"
+	},
+	"length_in_seconds": 106,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.humans_and_youkai_traversing_the_canal"
+	}
+}

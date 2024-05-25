@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Captain Murasa (TH12)"
+	},
+	"length_in_seconds": 150,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.captain_murasa"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Swim in a Cherry Blossom Colored Sea (TH16)"
+	},
+	"length_in_seconds": 150,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.swim_in_a_cherry_blossom_colored_sea"
+	}
+}

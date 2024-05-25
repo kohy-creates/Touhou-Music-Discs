@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Sky Ruin (TH12)"
+	},
+	"length_in_seconds": 140,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.sky_ruin"
+	}
+}

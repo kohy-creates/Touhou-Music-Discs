@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - The Abandoned Industrial Remains (TH18)"
+	},
+	"length_in_seconds": 196,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.the_abandoned_industrial_remains"
+	}
+}

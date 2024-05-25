@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Faith is For Transient People (TH10)"
+	},
+	"length_in_seconds": 205,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.faith_is_for_transient_people"
+	}
+}

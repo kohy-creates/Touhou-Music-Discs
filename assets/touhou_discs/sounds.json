@@ -1,0 +1,458 @@
+{
+	"music_disc.a_brave_and_leisurely_beast": {
+		"sounds": [
+			{
+				"name":"records/a_brave_and_leisurely_beast",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.a_fantastic_giant_underground_railway_network": {
+		"sounds": [
+			{
+				"name":"records/a_fantastic_giant_underground_railway_network",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.a_tiny_tiny_clever_commander": {
+		"sounds": [
+			{
+				"name":"records/a_tiny_tiny_clever_commander",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.a_world_of_nigthmares_never_seen_before": {
+		"sounds": [
+			{
+				"name":"records/a_world_of_nigthmares_never_seen_before",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.at_the_end_of_spring": {
+		"sounds": [
+			{
+				"name":"records/at_the_end_of_spring",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.bamboo_forest_of_the_full_moon": {
+		"sounds": [
+			{
+				"name":"records/bamboo_forest_of_the_full_moon",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.beast_metropolis": {
+		"sounds": [
+			{
+				"name":"records/beast_metropolis",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.captain_murasa": {
+		"sounds": [
+			{
+				"name":"records/captain_murasa",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.crystallized_silver": {
+		"sounds": [
+			{
+				"name":"records/crystallized_silver",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.dark_side_of_fate": {
+		"sounds": [
+			{
+				"name":"records/dark_side_of_fate",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.deep_mountain_encounter": {
+		"sounds": [
+			{
+				"name":"records/deep_mountain_encounter",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.desire_drive": {
+		"sounds": [
+			{
+				"name":"records/desire_drive",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.does_the_forbidden_door_lead_to_this_world_or_the_world_beyond": {
+		"sounds": [
+			{
+				"name":"records/does_the_forbidden_door_lead_to_this_world_or_the_world_beyond",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.electric_heritage": {
+		"sounds": [
+			{
+				"name":"records/electric_heritage",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.emotional_skyscraper_cosmic_mind": {
+		"sounds": [
+			{
+				"name":"records/emotional_skyscraper_cosmic_mind",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.entrusting_this_world_to_idols_idolatrize_world": {
+		"sounds": [
+			{
+				"name":"records/entrusting_this_world_to_idols_idolatrize_world",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.eternal_spring_dream": {
+		"sounds": [
+			{
+				"name":"records/eternal_spring_dream",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.faith_is_for_transient_people": {
+		"sounds": [
+			{
+				"name":"records/faith_is_for_transient_people",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.fall_of_fall_autumnal_waterfall": {
+		"sounds": [
+			{
+				"name":"records/fall_of_fall_autumnal_waterfall",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.fires_of_hokkai": {
+		"sounds": [
+			{
+				"name":"records/fires_of_hokkai",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.heartfelt_fancy": {
+		"sounds": [
+			{
+				"name":"records/heartfelt_fancy",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.humans_and_youkai_traversing_the_canal": {
+		"sounds": [
+			{
+				"name":"records/humans_and_youkai_traversing_the_canal",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.illusionary_joururi": {
+		"sounds": [
+			{
+				"name":"records/illusionary_joururi",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.interdimensional_voyage_of_a_ghostly_passenger_ship": {
+		"sounds": [
+			{
+				"name":"records/interdimensional_voyage_of_a_ghostly_passenger_ship",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.lunar_rainbow": {
+		"sounds": [
+			{
+				"name":"records/lunar_rainbow",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.memento_of_the_avaricious_beast": {
+		"sounds": [
+			{
+				"name":"records/memento_of_the_avaricious_beast",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.night_sakura_of_dead_spirits": {
+		"sounds": [
+			{
+				"name":"records/night_sakura_of_dead_spirits",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.old_yuanxian": {
+		"sounds": [
+			{
+				"name":"records/old_yuanxian",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.ore_from_the_age_of_the_gods": {
+		"sounds": [
+			{
+				"name":"records/ore_from_the_age_of_the_gods",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.pierrot_of_the_star_spangled_banner": {
+		"sounds": [
+			{
+				"name":"records/pierrot_of_the_star_spangled_banner",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.prince_shoutokus_pegasus_dark_pegasus": {
+		"sounds": [
+			{
+				"name":"records/prince_shoutokus_pegasus_dark_pegasus",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.provicinial_makai_city_esoteria": {
+		"sounds": [
+			{
+				"name":"records/provicinial_makai_city_esoteria",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.pure_furies_whereabaouts_of_pure_heart": {
+		"sounds": [
+			{
+				"name":"records/pure_furies_whereabaouts_of_pure_heart",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.reversed_wheel_of_fortune": {
+		"sounds": [
+			{
+				"name":"records/reversed_wheel_of_fortune",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.scarlet_beyond_a_crimson_dream": {
+		"sounds": [
+			{
+				"name":"records/scarlet_beyond_a_crimson_dream",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.september_pumpkin": {
+		"sounds": [
+			{
+				"name":"records/september_pumpkin",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.septette_for_the_dead_princess": {
+		"sounds": [
+			{
+				"name":"records/septette_for_the_dead_princess",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.sky_ruin": {
+		"sounds": [
+			{
+				"name":"records/sky_ruin",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.stars_falling_on_the_tenma_mountain": {
+		"sounds": [
+			{
+				"name":"records/stars_falling_on_the_tenma_mountain",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.swim_in_a_cherry_blossom_colored_sea": {
+		"sounds": [
+			{
+				"name":"records/swim_in_a_cherry_blossom_colored_sea",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_abandoned_industrial_remains": {
+		"sounds": [
+			{
+				"name":"records/the_abandoned_industrial_remains",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_colorless_wind_on_youkai_mountain": {
+		"sounds": [
+			{
+				"name":"records/the_colorless_wind_on_youkai_mountain",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_doll_maker_of_bucuresti": {
+		"sounds": [
+			{
+				"name":"records/the_doll_maker_of_bucuresti",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_frozen_eternal_capital": {
+		"sounds": [
+			{
+				"name":"records/the_frozen_eternal_capital",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_hall_of_dreams_great_mausoleum": {
+		"sounds": [
+			{
+				"name":"records/the_hall_of_dreams_great_mausoleum",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_long_awaited_omagatoki": {
+		"sounds": [
+			{
+				"name":"records/the_long_awaited_omagatoki",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_magic_straw_hat_jizo": {
+		"sounds": [
+			{
+				"name":"records/the_magic_straw_hat_jizo",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_path_to_yomi_where_none_turn_back": {
+		"sounds": [
+			{
+				"name":"records/the_path_to_yomi_where_none_turn_back",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_sea_that_reflects_ones_home_planet": {
+		"sounds": [
+			{
+				"name":"records/the_sea_that_reflects_ones_home_planet",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_shining_needle_castle_sinking_in_the_air": {
+		"sounds": [
+			{
+				"name":"records/the_shining_needle_castle_sinking_in_the_air",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_shrine_maiden_appears": {
+		"sounds": [
+			{
+				"name":"records/the_shrine_maiden_appears",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_traditional_old_man_and_the_stylish_girl": {
+		"sounds": [
+			{
+				"name":"records/the_traditional_old_man_and_the_stylish_girl",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.the_unspoken_of_beast_spirits": {
+		"sounds": [
+			{
+				"name":"records/the_unspoken_of_beast_spirits",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.tortoise_dragon_fortune_and_misfortune": {
+		"sounds": [
+			{
+				"name":"records/tortoise_dragon_fortune_and_misfortune",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.un_owen_was_her": {
+		"sounds": [
+			{
+				"name":"records/un_owen_was_her",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.unforgettable_the_nostalgic_greenery": {
+		"sounds": [
+			{
+				"name":"records/unforgettable_the_nostalgic_greenery",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.unlocated_hell": {
+		"sounds": [
+			{
+				"name":"records/unlocated_hell",
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_wait",
+					"functions": [
+						{
+							"function": "minecraft:set_custom_model_data",
+							"value": 543045
+						},
+						{
+							"function": "minecraft:set_components",
+							"components": {
+								"jukebox_playable": {
+									"song": "touhou_discs:the_long_awaited_omagatoki",
+									"show_in_tooltip": true
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

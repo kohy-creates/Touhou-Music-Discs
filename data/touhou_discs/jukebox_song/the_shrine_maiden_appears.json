@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - The Shrine Maiden Appears (TH15)"
+	},
+	"length_in_seconds": 160,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.the_shrine_maiden_appears"
+	}
+}

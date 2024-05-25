@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Bamboo Forest of Full Moon (TH14)"
+	},
+	"length_in_seconds": 165,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.bamboo_forest_of_the_full_moon"
+	}
+}

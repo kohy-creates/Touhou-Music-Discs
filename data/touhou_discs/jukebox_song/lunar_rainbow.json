@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Lunar Rainbow (TH18)"
+	},
+	"length_in_seconds": 180,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.lunar_rainbow"
+	}
+}

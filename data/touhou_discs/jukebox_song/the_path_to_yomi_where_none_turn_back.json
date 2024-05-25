@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - The Path to Yomi Where None Turn Back (TH19)"
+	},
+	"length_in_seconds": 175,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.the_path_to_yomi_where_none_turn_back"
+	}
+}

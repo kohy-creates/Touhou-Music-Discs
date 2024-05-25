@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - A World of Nigthmares Never Seen Before (TH15)"
+	},
+	"length_in_seconds": 225,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.a_world_of_nigthmares_never_seen_before"
+	}
+}

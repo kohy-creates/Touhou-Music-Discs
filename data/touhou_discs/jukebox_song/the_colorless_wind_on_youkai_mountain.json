@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - The Colorless Wind on Youkai Mountain (TH16)"
+	},
+	"length_in_seconds": 127,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.the_colorless_wind_on_youkai_mountain"
+	}
+}

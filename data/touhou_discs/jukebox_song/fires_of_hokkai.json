@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Fires of Hokkai (TH12)"
+	},
+	"length_in_seconds": 110,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.fires_of_hokkai"
+	}
+}

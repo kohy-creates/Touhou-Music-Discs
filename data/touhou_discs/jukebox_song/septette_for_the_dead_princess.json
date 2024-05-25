@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Septette for The Dead Princess (TH6)"
+	},
+	"length_in_seconds": 178,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.septette_for_the_dead_princess"
+	}
+}

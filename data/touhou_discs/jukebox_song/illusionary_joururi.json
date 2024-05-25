@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Iluusionary Joururi (TH14)"
+	},
+	"length_in_seconds": 140,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.illusionary_joururi"
+	}
+}

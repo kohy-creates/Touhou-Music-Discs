@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Memento of The Avaricious Beast (TH19)"
+	},
+	"length_in_seconds": 289,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.memento_of_the_avaricious_beast"
+	}
+}

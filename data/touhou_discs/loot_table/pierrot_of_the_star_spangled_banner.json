@@ -1,0 +1,28 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:music_disc_wait",
+					"functions": [
+						{
+							"function": "minecraft:set_custom_model_data",
+							"value": 543029
+						},
+						{
+							"function": "minecraft:set_components",
+							"components": {
+								"jukebox_playable": {
+									"song": "touhou_discs:pierrot_of_the_star_spangled_banner",
+									"show_in_tooltip": true
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

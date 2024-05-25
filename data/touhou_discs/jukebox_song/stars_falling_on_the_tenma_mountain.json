@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Stars Falling on The Tenma Mountain (TH17)"
+	},
+	"length_in_seconds": 165,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.stars_falling_on_the_tenma_mountain"
+	}
+}

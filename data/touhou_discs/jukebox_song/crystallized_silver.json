@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Crystallized Silver (TH7)"
+	},
+	"length_in_seconds": 62,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.crystallized_silver"
+	}
+}

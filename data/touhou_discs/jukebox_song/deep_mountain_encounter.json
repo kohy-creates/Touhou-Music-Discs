@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Deep-Mountain Encounter (TH16)"
+	},
+	"length_in_seconds": 106,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.deep_mountain_encounter"
+	}
+}

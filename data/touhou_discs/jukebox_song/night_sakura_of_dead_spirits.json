@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Night Sakura of Dead Spirits (TH13)"
+	},
+	"length_in_seconds": 116,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.night_sakura_of_dead_spirits"
+	}
+}

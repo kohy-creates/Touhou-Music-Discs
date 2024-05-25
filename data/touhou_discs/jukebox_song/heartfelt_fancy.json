@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - Heartfelt Fancy (TH11)"
+	},
+	"length_in_seconds": 154,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.heartfelt_fancy"
+	}
+}

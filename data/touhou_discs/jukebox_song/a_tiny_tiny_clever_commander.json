@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "ZUN - A Tiny, Tiny Clever Commander (TH12)"
+	},
+	"length_in_seconds": 113,
+	"sound_event": {
+		"sound_id": "touhou_discs:music_disc.a_tiny_tiny_clever_commander"
+	}
+}
